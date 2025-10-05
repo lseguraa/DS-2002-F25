@@ -1,0 +1,6 @@
+student_id,major,GPA,is_cs_major,credits_taken
+5,cs,2.0,True,98.0
+6,psych,3.0,False,56.0
+1,ds,3.2,False,48.0
+2,cs,4.0,True,17.0
+3,ece,3.6,False,115.0
